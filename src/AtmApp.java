@@ -10,6 +10,8 @@ public class AtmApp {
         //versiyon4
         System.out.println("cihan branchi kodlarını yazdı.");
         //chn1
+        System.out.println("");
+        //chn3
 
 
 
