@@ -8,6 +8,8 @@ public class AtmApp {
         //versiyon3
         System.out.println("Javayı öğrenmek çok kolay:)");
         //versiyon4
+        System.out.println("cihan branchi kodlarını yazdı.");
+        //chn1
 
 
 
