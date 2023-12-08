@@ -12,6 +12,11 @@ public class AtmApp {
         //chn1
         System.out.println("");
         //chn3
+        System.out.println();
+        if (true){
+            System.out.println();
+        }
+
 
 
 
