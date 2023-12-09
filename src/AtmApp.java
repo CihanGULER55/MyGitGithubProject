@@ -16,12 +16,7 @@ public class AtmApp {
         if (true){
             System.out.println();
         }
-
-
-
-
-
-
+        //remote depoda değişiklik yaptım.
 
     }
 }
